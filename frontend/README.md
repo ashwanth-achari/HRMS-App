@@ -1,0 +1,45 @@
+backend/
+│
+├── server.js
+├── db.js
+├── .env
+│
+├── models/
+│   ├── User.js
+│   ├── AttendanceRecord.js
+│   └── Payroll.js
+│
+├── controllers/
+│   ├── authController.js
+│   └── dashboardController.js
+│
+├── routes/
+│   ├── authRoutes.js
+│   └── dashboardRoutes.js
+│
+└── middleware/
+    └── authMiddleware.js
+
+
+/api/dashboard/admin
+
+/api/dashboard/manager
+
+/api/dashboard/recruiter
+
+/api/dashboard/employee
+
+////
+username: newuser1 
+password : 987654321
+eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk1MTg5MTkxMTA3NjA1NDM0NGUxNWUyNTY0MjViYjQyNWVlYjNhNWMiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiTmV3IEVtcGxveWVlMSIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS9ocm1zZGItMDA3IiwiYXVkIjoiaHJtc2RiLTAwNyIsImF1dGhfdGltZSI6MTc2NTAyNjIyNywidXNlcl9pZCI6IjlSTVNXaXFramJVU2hFZjBJUlBzMXBLdVoxazIiLCJzdWIiOiI5Uk1TV2lxa2piVVNoRWYwSVJQczFwS3VaMWsyIiwiaWF0IjoxNzY1MDI2MjI3LCJleHAiOjE3NjUwMjk4MjcsImVtYWlsIjoibmV3ZW1wbG95ZWUxQGNvbXBhbnkuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbIm5ld2VtcGxveWVlMUBjb21wYW55LmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.MLMPxt8dsmB9Q_G-ujlP727pfDSo2nSqXipJfrjF2X4pg2HLaxu-O7PgApa6NKeiqlRNt4993Q4H6fYj-ip-fLEjCT82GstHPSdGd6hmFiGTap3JIrCQYAv7JgH7o7N3poJKmXzcEoiQsLLqTqj5gCFiObqpmh7nvwut88vy-VQ7-bDgHehDC0qxvKyAd1sb00uvVIQRSqH1wSbZiGl0NIBeiU52dJyqDNNp_OeUfp5NRuHiEEvMPetOwMa3GvpALFvZI5PKYnvYgKYjDdMcam_Wm-P8VqYXAn4fFnUCwOlhWA7ReXV5V0_5WwSu1Y0Z2D8uN15GUz31ddhd-vwYrA
+
+
+
+//////////////
+admin-token: ashwanth@gmail.com
+password: qwertyui
+
+eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk1MTg5MTkxMTA3NjA1NDM0NGUxNWUyNTY0MjViYjQyNWVlYjNhNWMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vaHJtc2RiLTAwNyIsImF1ZCI6ImhybXNkYi0wMDciLCJhdXRoX3RpbWUiOjE3NjUwMjU4MzYsInVzZXJfaWQiOiJGendUQlFRYmVFaEFxSXB2QW1tcUY0NmtSQUwyIiwic3ViIjoiRnp3VEJRUWJlRWhBcUlwdkFtbXFGNDZrUkFMMiIsImlhdCI6MTc2NTAyNTgzNiwiZXhwIjoxNzY1MDI5NDM2LCJlbWFpbCI6ImFzaHdhbnRoQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJhc2h3YW50aEBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.SMJDaQoxb7wNNFU0NJPiwEGwIjvEQzQPRaK7t55UKv5CH4pP8kxEC5Jomv_RLbVKHkqloTiJ72Ei5xy3emM2tg4cgdQB3cWaxRWPN4bpK3xYgBgFffdWeoRpUxZwXpsaNqePxR9gLs8uJ2Ub-_Hs6EGQNoGQoWGhnTVzS3fbfLoe-fcNDV460M09FA81csyVTl3QJK1sKiEzYTXx6c71kJLVFTf2pyWl-W9y0FzKSStdHgGYdA7R-h7F3oonwrN4yQdCEjnZsoE8WOiAaQZwe1RsgKPkhndxZylyM9V2tDSCAJcJ3kZbOZmqHVCZGQiNH4kV8AWxRNdNm1Xn3edHHA
+
+////////////////////
